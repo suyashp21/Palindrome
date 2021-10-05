@@ -1,3 +1,9 @@
+/* Suyash Pandit, Palindrome project
+October 2021
+The user inputs a string, and the program determines
+whether it is a palindrome (disregarding punctuation and capitalization)
+*/
+
 #include <iostream>
 #include <cstring>
 #include <cctype>
